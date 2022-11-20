@@ -79,7 +79,7 @@
 
   Berikut Flowchart program yang akan kita buat :
 
-  ![flowchart program](img/flowchart.png)
+  flowchart
 
 #### Requirement
 - Pip [install pip](https://pypi.org/project/pip/)
@@ -88,7 +88,7 @@
 
 1. Pertama kita install Package `Tabulate` dengan cara buka terminal lalu copas `pip install tabulate` sebagai berikut :
 
-    ![tabulate](img/tabulate.png)
+    ![pip](https://user-images.githubusercontent.com/115864496/202901240-27efb363-bae4-4841-b3f0-add1f388ed2b.png)
 
 2. Lalu buka file `Praktikum5.py` dan masukan code berikut
 
