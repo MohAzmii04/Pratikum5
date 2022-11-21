@@ -79,7 +79,8 @@
 
   Berikut Flowchart program yang akan kita buat :
 
-  [Flowchart-Nilai-mahasiswa[1].docx](https://github.com/MohAzmii04/Pratikum5/files/10053632/Flowchart-Nilai-mahasiswa.1.docx)
+  ![Annotation 2022-11-21 122555](https://user-images.githubusercontent.com/115864496/202972255-2c5ff5ae-1e2c-4b0a-af57-665526aa6a18.png)
+
 
 #### Requirement
 - Pip [install pip](https://pypi.org/project/pip/)
